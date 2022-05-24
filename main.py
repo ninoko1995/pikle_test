@@ -13,6 +13,6 @@ def load_car() -> None:
     print(car.speedometer.max_speed)
 
 if __name__ == '__main__':
-    save_car()
+    # save_car()
 
-    # load_car()
+    load_car()
